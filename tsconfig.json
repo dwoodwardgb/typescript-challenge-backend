@@ -8,6 +8,8 @@
     "sourceMap": true,
     "outDir": "dist",
     "baseUrl": ".",
+    "strict": false,
+    "skipLibCheck": true,
     "paths": {
       "*": ["node_modules/*"]
     }
